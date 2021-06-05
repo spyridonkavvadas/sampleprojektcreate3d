@@ -1,0 +1,1 @@
+2021-06-01 11:53:58	1amtheadm1n	http://localhost/sampleprojekt.create3d/admin/page/edit/?id=1014	Page cannot be its own parent (in C:\xampp\htdocs\sampleprojekt.create3d\wire\core\Page.php line 2102)

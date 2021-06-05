@@ -1,0 +1,6 @@
+2021-05-31 19:10:42	1amtheadm1n	http://localhost/sampleprojekt.create3d/admin/login/	Successful login for '1amtheadm1n'
+2021-06-01 00:28:59	1amtheadm1n	http://localhost/sampleprojekt.create3d/admin/login/logout/	Logout for '1amtheadm1n'
+2021-06-01 08:53:20	1amtheadm1n	http://localhost/sampleprojekt.create3d/admin/login/	Successful login for '1amtheadm1n'
+2021-06-01 21:42:30	1amtheadm1n	https://localhost/sampleprojektcreate3d/admin/login/	Successful login for '1amtheadm1n'
+2021-06-03 14:49:38	1amtheadm1n	http://localhost/sampleprojektcreate3d/admin/login/	Successful login for '1amtheadm1n'
+2021-06-04 22:21:00	1amtheadm1n	http://localhost/sampleprojektcreate3d/admin/login/	Successful login for '1amtheadm1n'

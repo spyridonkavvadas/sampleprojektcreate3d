@@ -1,0 +1,11 @@
+2021-05-31 22:21:07	1amtheadm1n	http://localhost/sampleprojekt.create3d/admin/setup/template/removeFields	Deleted field "subheadline" data in 1 row(s) from 1 page(s) using template "project". [page-by-page]
+2021-06-01 13:17:37	1amtheadm1n	http://localhost/sampleprojekt.create3d/admin/setup/template/removeFields	Deleted field "sidebar" data in 1 row(s) from 1 page(s) using template "basic-page". [page-by-page]
+2021-06-01 13:19:47	1amtheadm1n	http://localhost/sampleprojekt.create3d/admin/setup/template/removeFields	Deleted field "sidebar" data in 0 row(s) from 0 page(s) using template "basic-page". [page-by-page]
+2021-06-01 16:56:17	1amtheadm1n	http://localhost/sampleprojekt.create3d/admin/page/sort/	Updated sort for 6 pages
+2021-06-01 17:53:55	1amtheadm1n	http://localhost/sampleprojekt.create3d/admin/setup/template/removeFields	Deleted field "sidebar" data in 0 row(s) from 0 page(s) using template "project". [page-by-page]
+2021-06-01 18:21:41	1amtheadm1n	http://localhost/sampleprojekt.create3d/admin/page/sort/	Updated sort for 6 pages
+2021-06-01 18:21:48	1amtheadm1n	http://localhost/sampleprojekt.create3d/admin/page/sort/	Updated sort for 3 pages
+2021-06-01 18:21:56	1amtheadm1n	http://localhost/sampleprojekt.create3d/admin/page/sort/	Updated sort for 2 pages
+2021-06-03 14:54:46	1amtheadm1n	http://localhost/sampleprojektcreate3d/admin/setup/template/removeFields	Deleted field "subheadline" data in 0 row(s) from 0 page(s) using template "project". [page-by-page]
+2021-06-04 02:19:20	1amtheadm1n	http://localhost/sampleprojektcreate3d/admin/page/sort/	Updated sort for 4 pages
+2021-06-04 02:19:39	1amtheadm1n	http://localhost/sampleprojektcreate3d/admin/page/sort/	Updated sort for 3 pages
