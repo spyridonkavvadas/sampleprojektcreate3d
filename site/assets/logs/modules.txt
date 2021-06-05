@@ -55,3 +55,15 @@
 2021-06-04 01:02:10	1amtheadm1n	http://localhost/sampleprojektcreate3d/admin/module/edit?name=Duplicator&collapse_info=1	Saved module 'Duplicator' config data
 2021-06-04 01:03:36	1amtheadm1n	http://localhost/sampleprojektcreate3d/admin/module/edit?name=Duplicator&collapse_info=1	Saved module 'Duplicator' config data
 2021-06-04 01:04:26	1amtheadm1n	http://localhost/sampleprojektcreate3d/admin/module/edit?name=Duplicator&collapse_info=1	Saved module 'Duplicator' config data
+2021-06-05 15:13:30	1amtheadm1n	http://localhost/sampleprojektcreate3d/admin/module/edit?name=Duplicator	Uninstalled module 'Duplicator'
+2021-06-05 15:13:31	1amtheadm1n	http://localhost/sampleprojektcreate3d/admin/module/edit?name=Duplicator	Saved module info caches
+2021-06-05 15:13:51	1amtheadm1n	http://localhost/sampleprojektcreate3d/admin/module/?reset=1	Saved module info caches
+2021-06-05 15:14:05	1amtheadm1n	http://localhost/sampleprojektcreate3d/admin/module/	Failed to delete module 'Duplicator'
+2021-06-05 15:14:13	1amtheadm1n	http://localhost/sampleprojektcreate3d/admin/module/	Deleted module 'Helloworld'
+2021-06-05 15:14:24	1amtheadm1n	http://localhost/sampleprojektcreate3d/admin/module/	Deleted module 'ProcessDuplicator'
+2021-06-05 15:16:41	1amtheadm1n	http://localhost/sampleprojektcreate3d/admin/module/edit?name=AppApi	Uninstalled module 'AppApi'
+2021-06-05 15:16:42	1amtheadm1n	http://localhost/sampleprojektcreate3d/admin/module/edit?name=AppApi	Saved module info caches
+2021-06-05 15:16:56	1amtheadm1n	http://localhost/sampleprojektcreate3d/admin/module/	Installed module 'AppApi'
+2021-06-05 15:16:57	1amtheadm1n	http://localhost/sampleprojektcreate3d/admin/module/	Saved module info caches
+2021-06-05 15:17:04	1amtheadm1n	http://localhost/sampleprojektcreate3d/admin/module/edit?name=AppApi	Saved module 'AppApi' config data
+2021-06-05 19:52:35	1amtheadm1n	http://localhost/sampleprojektcreate3d/admin/module/edit?name=AppApi	Saved module 'AppApi' config data

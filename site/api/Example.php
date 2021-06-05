@@ -67,17 +67,33 @@ class Example {
 			"childrens" => []
 		];
 
+		$images = [
+			"imagearray" => []
+		];
+
 		$p = wire('pages')->find('id=' . $data->id);
 			
 		foreach($p as $page) {
 
 			$childs['childrens'] = [];
+			
+			
 
 			foreach($page->children() as $child) {
+
+				$images = [];
+
+				foreach ($child->images as $image) {
+					array_push($images,[
+						"image" => $image->HTTPURL			
+					]);
+				}
+
 				array_push($childs['childrens'],[
 					"name" => $child->name,
 					"body" => $child->body,
 					"pageUrl" => $page->httpUrl(),
+					"images" => $images
 				]);
 			}
 			
@@ -88,7 +104,8 @@ class Example {
 				"body" => $page->getText('body'),
 				'title' => $page->title,
 				'childCount' => count($childs['childrens']),
-				'children' => $childs		
+				'children' => $childs	,
+				
 			]);
 	}
 

@@ -31,3 +31,4 @@
 2021-06-04 00:58:24	1amtheadm1n	http://localhost/sampleprojektcreate3d/admin/module/download/	Compiled file: /site/modules/Duplicator/Classes/DupLogs.php
 2021-06-04 00:58:24	1amtheadm1n	http://localhost/sampleprojektcreate3d/admin/module/download/	Compiled file: /site/modules/Duplicator/Classes/BackupDatabase.php
 2021-06-04 00:58:29	1amtheadm1n	http://localhost/sampleprojektcreate3d/admin/module/	Compiled file: /site/modules/Duplicator/ProcessDuplicator.module
+2021-06-05 20:42:37	1amtheadm1n	http://localhost/sampleprojektcreate3d/project-4/	Maintenance/Remove directory: /site/assets/cache/FileCompiler/site/modules/Duplicator
